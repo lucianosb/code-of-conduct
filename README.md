@@ -181,6 +181,7 @@ Grupos e canais do Telegram com URL Pública
 76. [Continuos Delivery BR](https://t.me/cdfbr)
 77. [Teclado Mecanico](https://t.me/tecladomecanico)
 78. [Novo DevOps-BR](https://t.me/novodevopsbr)
+79. [NLP BR](https://t.me/nlpbr)
 
 ### 5.2 Slack
 
